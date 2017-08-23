@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @cool.title %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @cool.body %>
+</p>
+
+<p>
+  <strong>Honest:</strong>
+  <%= @cool.honest %>
+</p>
+
+<p>
+  <strong>Timeofday:</strong>
+  <%= @cool.timeOfDay %>
+</p>
+
+<%= link_to 'Edit', edit_cool_path(@cool) %> |
+<%= link_to 'Back', cools_path %>
