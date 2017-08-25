@@ -1,24 +1,13 @@
-# README
+# Cool follow along project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is mainly for messing around with things and following along with a main project for class.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+* Ruby 5.4.0
 
-* Configuration
+## Updates
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Added a blog feature
+- Added several more pages and styles
+- Added models and resources for data
