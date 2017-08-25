@@ -1,0 +1,2 @@
+class LotsAStuffsController < ApplicationController
+end

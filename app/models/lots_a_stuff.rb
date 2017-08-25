@@ -1,0 +1,2 @@
+class LotsAStuff < ApplicationRecord
+end
